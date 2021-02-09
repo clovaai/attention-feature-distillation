@@ -1,5 +1,5 @@
 ## Show, Attend and Distill: Knowledge Distillation via Attention-based Feature Matching
-Official pytorch implementation of "Show, Attend and Distill: Knowledge Distillation via Attention-based Feature Matching"
+Official pytorch implementation of ["Show, Attend and Distill: Knowledge Distillation via Attention-based Feature Matching" (AAAI-2021)](http://34.94.61.102/paper_AAAI-9785.html)
 
 ## Requirements
 - Python3
